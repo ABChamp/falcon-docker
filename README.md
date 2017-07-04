@@ -1,7 +1,7 @@
 Dockerfile with nginx proxy to falcon API framework starter
 
 - base on phusion/baseimage lasted (Ubuntu 16.04 LTS)
-- python3, gunicorn, falcon
+- python 2.7, gunicorn, falcon
 
 Install 
 1. Install docker on your computer.
